@@ -4,10 +4,7 @@
 
 
 - 🔭 I’m currently working on Web Development Projects
-- 🌱 I’m currently learning Mern Stack
 - 👯 I’m looking to collaborate on Full Stack Projects
-- 🤔 I’m looking for help with Full Stack Web Development
-- 💬 Ask me about Full stack Web Dev
 - 📫 How to reach me: Through Linkedin
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Coding is Fun
